@@ -315,7 +315,7 @@ var Home = {
                         <div class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-white/10 border border-white/20 text-white text-[10px] font-bold uppercase tracking-wider mb-2">
                             <i data-lucide="code" class="w-3 h-3"></i> Developer Profile
                         </div>
-                        <h2 class="text-2xl font-black text-white">Doo</h2>
+                        <h2 class="text-2xl font-black text-white">IkyyCryxzzID</h2>
                         <p class="text-xs text-[#b3b3b3] mt-1 leading-relaxed">Pengembang & Pembuat ikyyMusify. Selamat menikmati streaming musik favorit tanpa gangguan!</p>
                         <div class="flex flex-wrap items-center gap-2 mt-3.5 justify-center sm:justify-start">
                             <a href="https://whatsapp.com/channel/0029Vb8WXpaHrDZaFhMfaw25" target="_blank" class="btn-chrome px-3.5 py-1.5 rounded-full text-xs font-bold flex items-center gap-1.5 shadow-md active:scale-95 transition-all">
