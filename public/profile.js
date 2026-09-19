@@ -36,7 +36,7 @@ var Profile = {
                     <span class="text-white/70 text-sm font-medium">Developed by</span>
                     <div class="flex items-center gap-2">
                         <img src="/dev.png" class="w-6 h-6 rounded-full object-cover border border-white/10" referrerPolicy="no-referrer" onerror="this.src='/logo.png'" />
-                        <span class="text-white font-bold text-sm">Doo</span>
+                        <span class="text-white font-bold text-sm">ikyyCryxzz</span>
                     </div>
                 </div>
 
@@ -59,7 +59,7 @@ var Profile = {
                 <i data-lucide="download" class="w-5 h-5"></i> Install Aplikasi
             </button>
 
-            <a href="https://whatsapp.com/channel/0029VbDThaa7tkj1ZTGzfw3X" target="_blank" class="block w-full max-w-sm mx-auto btn-chrome font-bold py-4 rounded-full active:scale-95 transition-all text-center flex items-center justify-center gap-2">
+            <a href="https://whatsapp.com/channel/0029Vb8WXpaHrDZaFhMfaw25" target="_blank" class="block w-full max-w-sm mx-auto btn-chrome font-bold py-4 rounded-full active:scale-95 transition-all text-center flex items-center justify-center gap-2">
                 <i data-lucide="message-circle" class="w-5 h-5"></i> Gabung Channel WhatsApp Untuk Info Lebih lanjut! 
             </a>
         </div>`;

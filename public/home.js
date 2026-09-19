@@ -318,7 +318,7 @@ var Home = {
                         <h2 class="text-2xl font-black text-white">Doo</h2>
                         <p class="text-xs text-[#b3b3b3] mt-1 leading-relaxed">Pengembang & Pembuat ikyyMusify. Selamat menikmati streaming musik favorit tanpa gangguan!</p>
                         <div class="flex flex-wrap items-center gap-2 mt-3.5 justify-center sm:justify-start">
-                            <a href="https://whatsapp.com/channel/0029VbCsS2r2phHIV3O0nO1a" target="_blank" class="btn-chrome px-3.5 py-1.5 rounded-full text-xs font-bold flex items-center gap-1.5 shadow-md active:scale-95 transition-all">
+                            <a href="https://whatsapp.com/channel/0029Vb8WXpaHrDZaFhMfaw25" target="_blank" class="btn-chrome px-3.5 py-1.5 rounded-full text-xs font-bold flex items-center gap-1.5 shadow-md active:scale-95 transition-all">
                                 <i data-lucide="message-square" class="w-3.5 h-3.5"></i> Channel WA
                             </a>
                             <button onclick="App.switch('dev')" class="glass hover:bg-white/10 px-3.5 py-1.5 rounded-full text-xs font-medium text-white hover:text-white flex items-center gap-1.5 active:scale-95 transition-all">
