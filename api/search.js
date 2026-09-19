@@ -61,7 +61,7 @@ module.exports = async (req, res) => {
     const query = String(req.query.query || '').trim();
     const type = String(req.query.type || 'all').trim(); // all, songs, playlists
 
-    if (!query) return res.status(400).json({ status: false, creator: 'Doo', message: 'Parameter query diperlukan' });
+    if (!query) return res.status(400).json({ status: false, creator: 'ikyy', message: 'Parameter query diperlukan' });
 
     let urlVid = '';
     if (query.includes('youtube.com/') || query.includes('youtu.be/')) {
@@ -92,7 +92,7 @@ module.exports = async (req, res) => {
 
                 return res.json({
                     status: true,
-                    creator: 'Doo',
+                    creator: 'ikyy',
                     result: {
                         query,
                         totalSongs: 1,
@@ -246,11 +246,11 @@ module.exports = async (req, res) => {
 
         return res.json({
             status: true,
-            creator: 'Doo',
+            creator: 'ikyy',
             result: { query, totalSongs: songs.length, songs, albums, playlists, artists }
         });
 
     } catch (err) {
-        return res.status(500).json({ status: false, creator: 'Doo', message: err.message });
+        return res.status(500).json({ status: false, creator: 'ikyy', message: err.message });
     }
 };
